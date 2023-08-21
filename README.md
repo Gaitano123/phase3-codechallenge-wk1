@@ -1,4 +1,4 @@
-# FLATIRON BANK
+# TOY-PROBLEMS
 
 #### Created by `Gaitano George` on 18-08-2023
 
